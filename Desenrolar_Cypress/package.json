@@ -1,0 +1,20 @@
+{
+  "name": "desenrolar_cypress",
+  "version": "1.0.0",
+  "description": "Valeria Aprendendo Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Valeria Alves",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^7.6.0"
+  }
+}
